@@ -7,7 +7,7 @@ The Patients can give appointment and those will be saved in our database
 The doctors can see their respective appointment and can take appropriate action such as approval and cancellation of the appointments
 Clients don’t have access to the admin panel. 
 
-linkedin :https://www.linkedin.com/in/md-tareq-khan-78aa171b1/
+linkedin :https://www.linkedin.com/in/md-tareq-mia/
 
 Live Link : https://inspiring-bohr-3424d7.netlify.app
 
