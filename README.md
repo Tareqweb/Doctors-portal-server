@@ -10,4 +10,5 @@ Clients don’t have access to the admin panel.
 linkedin :https://www.linkedin.com/in/md-tareq-khan-78aa171b1/
 
 Live Link : https://inspiring-bohr-3424d7.netlify.app
+
 Git Repo:  https://github.com/Tareqweb/Doctors-portal-client
